@@ -1,6 +1,5 @@
 hello git!111
 hello git!222
-<<<<<<< HEAD
 hello git!33
 hello git!333333
 hello git!
